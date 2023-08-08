@@ -6,4 +6,4 @@ Demo1
 1. checking demo on branching
 by git checkout -b feature
 git commit 
-2. undoing in git
+2. undoing in github
